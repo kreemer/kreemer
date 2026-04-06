@@ -8,4 +8,4 @@ I'm kreemer, a software developer passionate about open source, developer toolin
 
 ## Projects
 
-Check out [devcon/devcon](https://github.com/devcon/devcon) — a project I contribute to!
+Check out [devconhq/devcon](https://github.com/devconhq/devcon) — a project I contribute to!
